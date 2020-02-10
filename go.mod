@@ -1,4 +1,4 @@
-module swagger
+module github.com/sohaha/zlsgo-swagger
 
 go 1.13
 
